@@ -1,3 +1,31 @@
+# P214 Rotating Machinery Dashboard
+
+🚀 Live Dashboard
+
+"Click here to open the live dashboard" (https://p214rotatingmachineryappgit-gfz2hronfxhpgdfk7n3fcq.streamlit.app/)
+
+📂 GitHub Repository
+
+"View the project source code" (https://github.com/rohansh3221-commits/p214_rotating)
+
+📌 Project Overview
+
+The P214 Rotating Machinery Dashboard is a Python-based application built using Streamlit to visualize rotating machinery readings and sensor data.
+
+✨ Features
+
+- Interactive dashboard for machinery readings
+- Visualization of sensor data
+- Web-based access to the deployed dashboard
+
+🛠️ Technologies Used
+
+- Python
+- Streamlit
+- Pandas
+- Data visualization libraries
+
+
 # P_214 – Predictive Maintenance for Rotating Machinery
 
 Synthetic generator → MQTT (HiveMQ Cloud) → Python subscriber → SQLite
@@ -52,35 +80,3 @@ fault readings, which are still close to normal.
 
 ## Future work
 XGBoost on a labeled dataset (e.g. CWRU), real MPU6050 + ESP32 sensor.
-
-P214 Rotating Machinery Dashboard
-
-🚀 Live Dashboard
-
-"Click here to open the live dashboard" (https://p214rotatingmachineryappgit-gfz2hronfxhpgdfk7n3fcq.streamlit.app/)
-
-📂 GitHub Repository
-
-"View the project source code" (https://github.com/rohansh3221-commits/p214_rotating)
-
-📌 Project Overview
-
-The P214 Rotating Machinery Dashboard is a Python-based application built using Streamlit to visualize rotating machinery readings and sensor data.
-
-✨ Features
-
-- Interactive dashboard for machinery readings
-- Visualization of sensor data
-- Web-based access to the deployed dashboard
-
-🛠️ Technologies Used
-
-- Python
-- Streamlit
-- Pandas
-- Data visualization libraries
-
-🔮 Future Work
-
-- Implement XGBoost using a labeled dataset (e.g., CWRU).
-- Integrate real MPU6050 sensors with an ESP32 microcontroller.
