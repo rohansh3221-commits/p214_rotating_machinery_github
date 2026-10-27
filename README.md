@@ -53,31 +53,34 @@ fault readings, which are still close to normal.
 ## Future work
 XGBoost on a labeled dataset (e.g. CWRU), real MPU6050 + ESP32 sensor.
 
-
 P214 Rotating Machinery Dashboard
 
-Live Dashboard
+🚀 Live Dashboard
 
-Open the live project dashboard here:
+"Click here to open the live dashboard" (https://p214rotatingmachineryappgit-gfz2hronfxhpgdfk7n3fcq.streamlit.app/)
 
-https://p214rotatingmachineryappgit-gfz2hronfxhpgdfk7n3fcq.streamlit.app/
+📂 GitHub Repository
 
-GitHub Repository
+"View the project source code" (https://github.com/rohansh3221-commits/p214_rotating)
 
-View the project source code here:
+📌 Project Overview
 
-https://github.com/rohansh3221-commits/p214_rotating
+The P214 Rotating Machinery Dashboard is a Python-based application built using Streamlit to visualize rotating machinery readings and sensor data.
 
-Project Description
-
-This project monitors rotating machinery parameters through a dashboard built using Python and Streamlit.
-
-Features
+✨ Features
 
 - Interactive dashboard for machinery readings
 - Visualization of sensor data
-- Online access through a web browser
+- Web-based access to the deployed dashboard
 
-How to Access
+🛠️ Technologies Used
 
-Click the Live Dashboard link above to view the deployed application.
+- Python
+- Streamlit
+- Pandas
+- Data visualization libraries
+
+🔮 Future Work
+
+- Implement XGBoost using a labeled dataset (e.g., CWRU).
+- Integrate real MPU6050 sensors with an ESP32 microcontroller.
