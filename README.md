@@ -53,6 +53,7 @@ fault readings, which are still close to normal.
 ## Future work
 XGBoost on a labeled dataset (e.g. CWRU), real MPU6050 + ESP32 sensor.
 
+
 P214 Rotating Machinery Dashboard
 
 Live Dashboard
