@@ -1,5 +1,5 @@
-<img width="1917" height="1078" alt="Screenshot 2026-10-30 214607" src="https://github.com/user-attachments/assets/8369a08d-8c65-4a7e-94ad-c71a689434a0" />
-# P214 Rotating Machinery Dashboard
+
+## P214 Rotating Machinery Dashboard
 
 🚀 Live Dashboard
 
