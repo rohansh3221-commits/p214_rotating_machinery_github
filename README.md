@@ -81,6 +81,8 @@ fault readings, which are still close to normal.
 
 ## Future work
 XGBoost on a labeled dataset (e.g. CWRU), real MPU6050 + ESP32 sensor.
+
+
 ## Working Dashboard Screenshots
 <img width="1917" height="1078" alt="Screenshot 2026-10-30 214607" src="https://github.com/user-attachments/assets/d0553a00-fe6b-4a7d-8795-a21f002dd8d4" />
 <img width="1908" height="1077" alt="Screenshot 2026-10-30 214636" src="https://github.com/user-attachments/assets/5829d9b1-69c0-4094-8ede-b27d094989b3" />
