@@ -7,7 +7,7 @@
 
 📂 GitHub Repository
 
-"View the project source code" (https://github.com/rohansh3221-commits/p214_rotating)
+"View the project source code" (https://github.com/rohansh3221-commits/p214_rotating_machinery_github.git)
 
 📌 Project Overview
 
