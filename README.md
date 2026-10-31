@@ -1,3 +1,4 @@
+<img width="1917" height="1078" alt="Screenshot 2026-10-30 214607" src="https://github.com/user-attachments/assets/8369a08d-8c65-4a7e-94ad-c71a689434a0" />
 # P214 Rotating Machinery Dashboard
 
 🚀 Live Dashboard
@@ -80,3 +81,10 @@ fault readings, which are still close to normal.
 
 ## Future work
 XGBoost on a labeled dataset (e.g. CWRU), real MPU6050 + ESP32 sensor.
+## Working Dashboard Screenshots
+<img width="1917" height="1078" alt="Screenshot 2026-10-30 214607" src="https://github.com/user-attachments/assets/d0553a00-fe6b-4a7d-8795-a21f002dd8d4" />
+<img width="1908" height="1077" alt="Screenshot 2026-10-30 214636" src="https://github.com/user-attachments/assets/5829d9b1-69c0-4094-8ede-b27d094989b3" />
+<img width="1917" height="1078" alt="Screenshot 2026-10-30 214653" src="https://github.com/user-attachments/assets/82ef52aa-5301-457d-9190-57903de71a99" />
+<img width="1907" height="1060" alt="Screenshot 2026-10-30 214714" src="https://github.com/user-attachments/assets/78b80f38-b0bf-48d8-8220-e004a81397d5" />
+<img width="1913" height="1076" alt="Screenshot 2026-10-30 214726" src="https://github.com/user-attachments/assets/8cb34457-bf91-4241-884b-098c1b509643" />
+<img width="1917" height="1078" alt="Screenshot 2026-10-30 214738" src="https://github.com/user-attachments/assets/0c3a6eec-b7c9-4c9f-9e0a-f33213e2b76d" />
